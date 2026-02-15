@@ -1,0 +1,12 @@
+{
+  "name": "promax-bot",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@line/bot-sdk": "^7.7.0",
+    "express": "^4.18.2"
+  }
+}
